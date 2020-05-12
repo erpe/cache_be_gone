@@ -9,7 +9,7 @@ use only if cache_store == file_store
 to add an action button on your template at any place:
 
 ```
-<%= sweeper_link %>
+<%= cache_be_gone %>
 ```
 
 ## Installation

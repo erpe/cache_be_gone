@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    cache_be_gone (0.1.0.pre.6)
+    cache_be_gone (0.1.0.pre.7)
       rails (~> 6.0.2, >= 6.0.2.2)
 
 GEM
@@ -122,6 +122,7 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
+    sqlite3 (1.4.2)
     thor (1.0.1)
     thread_safe (0.3.6)
     tzinfo (1.2.6)
@@ -136,6 +137,7 @@ PLATFORMS
 
 DEPENDENCIES
   cache_be_gone!
+  sqlite3
 
 BUNDLED WITH
    2.1.4
