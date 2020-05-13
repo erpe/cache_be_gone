@@ -1,6 +1,7 @@
 # CacheBeGone
 
-Simple engine that provides controller, route and helper to ease administrative cache deletion
+Simple Rails engine that provides controller, route and helper to ease administrative cache deletion.
+
 
 ## Usage
 

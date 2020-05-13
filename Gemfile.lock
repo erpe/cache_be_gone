@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    cache_be_gone (0.1.0.pre.7)
-      rails (~> 6.0.2, >= 6.0.2.2)
+    cache_be_gone (0.1.0.pre.8)
+      rails (>= 5)
 
 GEM
   remote: https://rubygems.org/
