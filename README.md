@@ -1,6 +1,7 @@
 # CacheBeGone
 
-Simple engine that provides controller, route and helper to ease administrative cache deletion
+Simple Rails engine that provides controller, route and helper to ease administrative cache deletion.
+
 
 ## Usage
 
@@ -13,7 +14,7 @@ to add an action button on your template at any place:
 ```
 
 ## Installation
-Add this line to your application's Gemfile:
+Add this line to your rails (>=5) application's Gemfile:
 
 ```ruby
 gem 'cache_be_gone'
